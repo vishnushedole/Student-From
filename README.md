@@ -2,7 +2,7 @@
 This is a Student Enrollment form created using bootstrap , javascript and JsonPowerDB.
 
 # Benefits of using JsonPowerDB
-1 serverless database.
+1 serverless database /n
 2 schemaless 
 3 single instance million indexes.
 4 support of querying multiple database
